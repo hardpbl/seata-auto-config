@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6ba65f9-98b3-4315-a7c3-fd1bf0964b1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/account-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/AccountServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/AccountServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/DataSourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/service/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/service/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/io/seata/sample/EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/test/java/io/seata/sample/EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/DataSourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/OrderServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/OrderServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/order.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/storage-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/java/io/seata/sample/DataSourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/java/io/seata/sample/StorageServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/java/io/seata/sample/service/StorageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/storage-server/src/main/java/io/seata/sample/service/StorageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/storage-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/resources/storage.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-nacos-seata/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-nacos-seata/order-service/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pnEWVHhXVROfcEBDeHz4KjflNm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/storage-server/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19119024" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/order-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/account-server/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.seata.sample.entity" />
+      <recent name="io.seata.sample.feign" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountServerApplication">
+    <configuration name="OrderRepositoryImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.seata.sample.repository.impl.OrderRepositoryImpl" />
+      <module name="order-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.seata.sample.repository.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.AccountServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.OrderServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.StorageServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OrderRepositoryImpl" />
+      <item itemvalue="Spring Boot.AccountServerApplication" />
+      <item itemvalue="Spring Boot.OrderServerApplication" />
+      <item itemvalue="Spring Boot.StorageServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderRepositoryImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6ba65f9-98b3-4315-a7c3-fd1bf0964b1a" name="Default Changelist" comment="" />
+      <created>1615810486320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615810486320</updated>
+      <workItem from="1615810487496" duration="8500000" />
+      <workItem from="1615869310446" duration="694000" />
+      <workItem from="1616469553744" duration="5857000" />
+      <workItem from="1616550534839" duration="624000" />
+      <workItem from="1619695493483" duration="4429000" />
+      <workItem from="1625216040430" duration="3172000" />
+      <workItem from="1625291422637" duration="8584000" />
+      <workItem from="1625300472648" duration="447000" />
+      <workItem from="1625301322842" duration="321000" />
+      <workItem from="1625361355677" duration="6222000" />
+      <workItem from="1625375549100" duration="2630000" />
+      <workItem from="1625392632985" duration="4692000" />
+      <workItem from="1626089279257" duration="2695000" />
+      <workItem from="1626146223915" duration="6000" />
+      <workItem from="1626153832916" duration="4870000" />
+      <workItem from="1626178968027" duration="995000" />
+      <workItem from="1626184277379" duration="2344000" />
+      <workItem from="1626189969404" duration="464000" />
+      <workItem from="1626219870680" duration="1027000" />
+      <workItem from="1626221229059" duration="709000" />
+      <workItem from="1626225806154" duration="1551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/service/AccountServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/controller/AccountController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/account-server/src/main/java/io/seata/sample/service/AccountServiceImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/undo/mysql/MySQLUndoLogManager.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/ConnectionProxy.java</url>
+          <line>223</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/ConnectionProxy.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/ConnectionProxy.java</url>
+          <line>301</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/exec/ExecuteTemplate.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.0/seata-all-1.4.0-sources.jar!/io/seata/rm/datasource/exec/ExecuteTemplate.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/controller/OrderController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-spring-boot-starter/1.4.2/seata-spring-boot-starter-1.4.2-sources.jar!/io/seata/spring/boot/autoconfigure/SeataDataSourceAutoConfiguration.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-spring-boot-starter/1.4.2/seata-spring-boot-starter-1.4.2-sources.jar!/io/seata/spring/boot/autoconfigure/SeataDataSourceAutoConfiguration.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/OnExpressionCondition.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/OnExpressionCondition.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.6.RELEASE/spring-boot-actuator-autoconfigure-2.0.6.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/metrics/jdbc/HikariDataSourceMetricsPostProcessor.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.4.2/seata-all-1.4.2-sources.jar!/io/seata/spring/annotation/datasource/SeataAutoDataSourceProxyCreator.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-spring-boot-starter/1.4.2/seata-spring-boot-starter-1.4.2.jar!/io/seata/spring/boot/autoconfigure/SeataDataSourceAutoConfiguration.class</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/seata/seata-spring-boot-starter/1.4.2/seata-spring-boot-starter-1.4.2.jar!/io/seata/spring/boot/autoconfigure/SeataDataSourceAutoConfiguration.class</url>
+          <line>31</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

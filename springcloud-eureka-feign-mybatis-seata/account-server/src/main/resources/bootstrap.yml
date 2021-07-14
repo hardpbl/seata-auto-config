@@ -1,0 +1,26 @@
+server:
+  port: 9850
+management:
+  server: 
+    port: 9851
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+spring:
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:true}
+  cloud:
+    nacos:
+      config:
+        server-addr: ${NACOS_SERVER_ADDR:127.0.0.1:8848}
+      discovery:
+        server-addr: ${NACOS_SERVER_ADDR:127.0.0.1:8848}
+        metadata:
+          VERSION: 2.0.1
+      datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        password: root
+        url: jdbc:mysql://127.0.0.1/seata-account
+        username: root
